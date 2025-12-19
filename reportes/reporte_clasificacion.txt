@@ -1,0 +1,19 @@
+MATRICAS DE EVALUACION DEL MODELO DE HELADAS
+
+Accuracy: 0.9517
+AUC-ROC: 0.9938
+
+Matriz de confusion:
+                 Pred_0_NoHelada  Pred_1_Helada
+Real_0_NoHelada           265483          14635
+Real_1_Helada               1532          52916
+
+Reporte de clasificacion:
+              precision    recall  f1-score   support
+
+           0     0.9943    0.9478    0.9705    280118
+           1     0.7833    0.9719    0.8675     54448
+
+    accuracy                         0.9517    334566
+   macro avg     0.8888    0.9598    0.9190    334566
+weighted avg     0.9599    0.9517    0.9537    334566

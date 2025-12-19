@@ -1,0 +1,24 @@
+COMPARACIÓN DE MODELOS (Logistic, RandomForest, XGBoost)
+------------------------------------------------------------
+
+Modelo: LogisticRegression
+  Accuracy : 0.936775
+  Precision: 0.865866
+  Recall   : 0.721873
+  F1-score : 0.787337
+  AUC      : 0.972283
+
+Modelo: RandomForest
+  Accuracy : 0.959595
+  Precision: 0.903637
+  Recall   : 0.840426
+  F1-score : 0.870879
+  AUC      : 0.989113
+
+Modelo: XGBoost
+  Accuracy : 0.966020
+  Precision: 0.909484
+  Recall   : 0.877795
+  F1-score : 0.893358
+  AUC      : 0.992500
+
